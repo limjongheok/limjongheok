@@ -15,3 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjongheok&layout=compact" height="200"/></br>
 <img src="https://github-readme-stats.vercel.app/api?username=limjongheok&show_icons=true&theme=radical">
 </div>
+
+
+#### Contect Me
+<img  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://velog.io/@limjongheok">
