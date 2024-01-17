@@ -17,5 +17,4 @@
 </div>
 
 
-#### Contect Me
-<a href="https://velog.io/@limjongheok"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+
