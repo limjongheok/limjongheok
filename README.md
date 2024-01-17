@@ -18,4 +18,4 @@
 
 
 #### Contect Me
-<img  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://velog.io/@limjongheok">
+<a href="https://velog.io/@limjongheok"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
