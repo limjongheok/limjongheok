@@ -63,7 +63,7 @@
 | **[CAPSULE](https://github.com/TEAM-TIMECAPSULE/CAPSULE_BACKEND)** | 타입 캡슐 웹서비스 제공 서비스 | BE, INFRA(CICD) | 총원 2 명    |  | 2024.6 |
 | **[Vegas 홈페이지 제작외주](https://vegasinc.co.kr/)** | 홈페이지 제작 배포 외주 | INFRA(AWS), FRONT | 총원 2 명    |  | 2024.01 ~ 2024.04 |  
 | **[BIT](https://github.com/limjongheok/CAPSTON)** | 중고물품 안전 거래 제공 서비스 | BE, INFRA(CICD), IOT |총원 4명   | 대상 | 2023.073~ 2023.06|
-| **[KLEAN](https://github.com/IPD-TEAM-KLEAN/Ipd_Team_klean_backend)** | 안전 등교길 플렛폼 제공 | BE, INFRA(CICD), IOT, 한국 수자원 공사 기업연계 프로젝트 |총원 8명    |  최우수상 | 2024.07 ~ 2024.08|
+| **[KLEAN](https://github.com/IPD-TEAM-KLEAN/Ipd_Team_klean_backend)** | 안전 등교길 플렛폼 제공, 한국 수자원 공사 기업연계 프로젝트 | BE, INFRA(CICD), IOT |총원 8명    |  최우수상 | 2024.07 ~ 2024.08|
 
 
 ## ⚙️ Stacks
