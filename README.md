@@ -56,14 +56,14 @@
 ## 💻 Projects
 | 프로젝트명 | 설명 | 역할 | 인원 | 비고 | 기간 |
 |------------|-------|------|------------------|--------------------------|--------------------------------------|
-| **[Busy Bee](https://github.com/limjongheok/samsungSDS_BusyBee)** | AI 기반 업무 메일 의도 분류 및 업무 인텔리전스 자동화 서비스. 삼성 SDS 기업 연계 프로젝트 | BE, INFRA(AWS) | 총원 6 명 | 우수상  | 2024.10.14 ~ 2024.11.22|
+| **[Busy Bee](https://github.com/limjongheok/samsungSDS_BusyBee)** | AI 기반 업무 메일 의도 분류 및 업무 인텔리전스 자동화 서비스. 삼성 SDS 기업 연계 프로젝트 | BE, INFRA(AWS) | 총원 6 명  | 우수상  | 2024.10.14 ~ 2024.11.22|
 | **[캐치캐치! 시즌아레나](https://github.com/limjongheok/Catch-SeasonArena)** | 각 사계절에 따른 자연물을 수집하고 실시간 배틀하는 모바일 도감 및 게임 | BE, INFRA(CICD) | 총원 6 명 | 우수상 | 2024.08.19 ~ 2024.10.11 |
 | **[EVERSTAR](https://github.com/Everstar-OverTheRainbow/Everstar-OverTheRainbow)** | 추모공간과 힐링퀘스트, 편지 작성을 통해 펫로스 증후군 극복 및 일상회복 지원 서비스 | BE, INFRA(CICD) | 총원 6 명 | 우수상 | 2024.07.08 ~ 2024.08.16 |
 | **[안전하게 학교가제](https://github.com/SchoolSafetyCrab/BACKEND-MAIN)** | 안전 등교길 플렛폼 제공 서비스 | BE, INFRA(CICD) | 총원 4 명 | 우수상 |  2024.07 ~ 2024.08|
-| **[CAPSULE](https://github.com/TEAM-TIMECAPSULE/CAPSULE_BACKEND)** | 타입 캡슐 웹서비스 제공 서비스 | BE, INFRA(CICD) | 총원 2 명 |  | 2024.6 |
-| **[Vegas 홈페이지 제작외주](https://vegasinc.co.kr/)** | 홈페이지 제작 배포 외주 | INFRA(AWS), FRONT | 총원 2 명 |  | 2024.01 ~ 2024.04 |  
-| **[BIT](https://github.com/limjongheok/CAPSTON)** | 중고물품 안전 거래 제공 서비스 | BE, INFRA(CICD), IOT |총원 4명| 대상 | 2023.073~ 2023.06|
-| **[KLEAN](https://github.com/IPD-TEAM-KLEAN/Ipd_Team_klean_backend)** | 안전 등교길 플렛폼 제공 | BE, INFRA(CICD), IOT, 한국 수자원 공사 기업연계 프로젝트 |총원 8명|  최우수상 | 2024.07 ~ 2024.08|
+| **[CAPSULE](https://github.com/TEAM-TIMECAPSULE/CAPSULE_BACKEND)** | 타입 캡슐 웹서비스 제공 서비스 | BE, INFRA(CICD) | 총원 2 명    |  | 2024.6 |
+| **[Vegas 홈페이지 제작외주](https://vegasinc.co.kr/)** | 홈페이지 제작 배포 외주 | INFRA(AWS), FRONT | 총원 2 명    |  | 2024.01 ~ 2024.04 |  
+| **[BIT](https://github.com/limjongheok/CAPSTON)** | 중고물품 안전 거래 제공 서비스 | BE, INFRA(CICD), IOT |총원 4명   | 대상 | 2023.073~ 2023.06|
+| **[KLEAN](https://github.com/IPD-TEAM-KLEAN/Ipd_Team_klean_backend)** | 안전 등교길 플렛폼 제공 | BE, INFRA(CICD), IOT, 한국 수자원 공사 기업연계 프로젝트 |총원 8명    |  최우수상 | 2024.07 ~ 2024.08|
 
 
 ## ⚙️ Stacks
