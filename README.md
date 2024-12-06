@@ -65,6 +65,7 @@
 | **[BIT](https://github.com/limjongheok/CAPSTON)** | 중고물품 안전 거래 제공 서비스 | BE, INFRA(CICD), IOT |총원 4명   | 대상 | 2023.03~ 2023.06   |
 | **[KLEAN](https://github.com/IPD-TEAM-KLEAN/Ipd_Team_klean_backend)** | 안전 등교길 플렛폼 제공, 한국 수자원 공사 기업연계 프로젝트 | BE, INFRA(CICD), IOT |총원 8명    |  최우수상 | 2022.09 ~ 2022.12  |
 
+<br/>
 
 ## ⚙️ Stacks
 
