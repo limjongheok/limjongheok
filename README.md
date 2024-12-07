@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JongHeok's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=35&&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JongHyeok's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=35&&height=180)
 
 ## <div> 🌱 공유와 소통을 좋아하는 개발자, 임종혁 입니다.</div> 
 ---
