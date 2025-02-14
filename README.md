@@ -15,6 +15,9 @@
 
 ## 🏅 Certificate
 
+**AWS Certified Solutions Architect - Associate**
+  <br> _AWS_
+
 **정보처리 기사**
   <br> _한국산업인력공단_
 
@@ -22,6 +25,9 @@
   <br> _Kdata / 한국데이터산업진흥원_
 
 <br>
+
+![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/4b73ff10-e898-4e4d-a6eb-659a5395db19)
+
 
 ## 🏆 Awards
 
