@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JongHyeok's%20GitHub%20👋&animation=twinkling&fontSize=33&fontAlignY=35&&height=180)
 
-## <div> 🌱 공유와 소통을 좋아하는 개발자, 임종혁 입니다.</div> 
+## <div> 🌱 경험하며 증명해나가는 개발자 임종혁 입니다.</div> 
 ---
 ### 기술발전
 - 저는 새로운 기술을 탐구하고 이를 실제 프로젝트에 적용하면서 기술적 역량을 높이는데 큰 보람을 느낍니다.
