@@ -15,6 +15,9 @@
 
 ## 🏅 Certificate
 
+**Terraform Associate**
+  <br> _HashiCorp_
+
 **AWS Certified Solutions Architect - Associate**
   <br> _AWS_
 
@@ -27,8 +30,7 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/4b73ff10-e898-4e4d-a6eb-659a5395db19" width="100" />
-
-
+<img src="https://github.com/user-attachments/assets/57acb4eb-04b9-4494-b4f5-457774d5df1e" width="100" />
 
 ## 🏆 Awards
 
